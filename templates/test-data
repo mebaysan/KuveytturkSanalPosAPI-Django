@@ -1,0 +1,17 @@
+Test Bilgileri:
+
+CustomerId = "400235";//Müsteri Numarasi
+MerchantId = "496" ; //Magaza Kodu
+UserName="apitest"; // Web Yönetim ekranlarindan olusturulan api rollü kullanici
+Password="api123"; // Web Yönetim ekranlarindan olusturulan api rollü kullanici sifresi
+
+Test Kart Bilgileri
+Kart No: #4033#602562020327#
+CVV: 861
+Expirydate: 01/30
+
+SanalPos 3D Model Ödeme Noktası Adresi (Test) :
+https://boatest.kuveytturk.com.tr/boa.virtualpos.services/Home/ThreeDModelPayGate
+
+SanalPos 3D Model Ödeme Onaylama Adresi(Test):
+https://boatest.kuveytturk.com.tr/boa.virtualpos.services/Home/ThreeDModelProvisionGate
